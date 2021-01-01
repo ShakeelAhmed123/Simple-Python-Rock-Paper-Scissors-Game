@@ -1,4 +1,4 @@
-# -Simple-Python-Rock-Paper-Scissors
+# Simple-Python-Rock-Paper-Scissors
 A very simple CLI based Rock Paper Scissors game written in Python.
 
 Just Run main.py in the folder. No additional requirements except for Python 3.
